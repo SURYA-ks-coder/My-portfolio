@@ -1,0 +1,18 @@
+#bg-gradient{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255, 208, 0, 0.6));
+}
+/* #bg-gradient2{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255, 208, 0, 0.6));
+} */
+.btn-gradient-2 {
+    background: linear-gradient(to left, rgb(62, 62, 62), rgb(28, 24, 3)) padding-box,
+                linear-gradient(to left, rgba(255,0,0,0), rgb(247, 247, 196)) border-box;
+    /* border-radius: 5em; */
+    border: 5px solid transparent;
+  }
+  .btn-gradient-3 {
+    background: linear-gradient(to top, rgb(62, 62, 62), rgb(28, 24, 3)) padding-box,
+                linear-gradient(to top, rgba(255,0,0,0), rgb(247, 247, 196)) border-box;
+    /* border-radius: 5em; */
+    border: 5px solid transparent;
+  }
